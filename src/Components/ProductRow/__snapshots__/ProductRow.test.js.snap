@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductRow renders without crashing 1`] = `
+<tr>
+  <td
+    className="ProductName"
+    style={
+      Object {
+        "color": "black",
+      }
+    }
+  >
+    Football
+  </td>
+  <td>
+    $49.99
+  </td>
+</tr>
+`;
