@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTable renders without crashing 1`] = `
+<table
+  style={
+    Object {
+      "border": "1px solid black",
+    }
+  }
+>
+  <thead>
+    <tr>
+      <th>
+        Name
+      </th>
+      <th>
+        Price
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th
+        colSpan="2"
+      >
+        Sporting Goods
+      </th>
+    </tr>
+    <tr>
+      <td
+        className="ProductName"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        Football
+      </td>
+      <td>
+        $49.99
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="ProductName"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        Baseball
+      </td>
+      <td>
+        $9.99
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="ProductName"
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        Basketball
+      </td>
+      <td>
+        $29.99
+      </td>
+    </tr>
+    <tr>
+      <th
+        colSpan="2"
+      >
+        Electronics
+      </th>
+    </tr>
+    <tr>
+      <td
+        className="ProductName"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        iPod Touch
+      </td>
+      <td>
+        $99.99
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="ProductName"
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        iPhone 5
+      </td>
+      <td>
+        $399.99
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="ProductName"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        Nexus 7
+      </td>
+      <td>
+        $199.99
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
